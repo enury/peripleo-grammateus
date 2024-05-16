@@ -1,0 +1,6479 @@
+{
+  "@id": "https://gitlab.unige.ch/Adrien.Dejean/application-info",
+  "type": "FeatureCollection",
+  "@context": "http://linkedpasts.org/assets/linkedplaces-context-v1.jsonld",
+  "features": [
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32816\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "SB 16 12614",
+        "origPlace": "unbekannt",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay "
+      },
+      "@id": "32816"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33711\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 48 3398",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "33711"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 18. Jan. 362<br><a href=\"https://grammateus.unige.ch/document/17664\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0362-01-18"
+            },
+            "end": {
+              "in": "0362-01-18"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "PSI 7 784",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0362-01-18",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "17664"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/704796\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "APF 63 167",
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter "
+      },
+      "@id": "704796"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 8. Sept. 473<br><a href=\"https://grammateus.unige.ch/document/50665\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0473-09-08"
+            },
+            "end": {
+              "in": "0473-09-08"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "SB 28 16884",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0473-09-08",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "50665"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 16. Mai 473<br><a href=\"https://grammateus.unige.ch/document/50664\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0473-05-16"
+            },
+            "end": {
+              "in": "0473-05-16"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "SB 28 16883",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0473-05-16",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "50664"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI (?)<br><a href=\"https://grammateus.unige.ch/document/38527\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "SB 20 14987",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "38527"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35598\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1836",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35598"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/34876\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.08033,
+          29.453786
+        ]
+      },
+      "properties": {
+        "title": "P.Gen. 4 172",
+        "origPlace": "Philadelphia (Arsinoites)",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Philadelphia"
+      },
+      "@id": "34876"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35413\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "P.Heid. 4 333",
+        "origPlace": "unbekannt",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter "
+      },
+      "@id": "35413"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35607\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1931",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35607"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Warrant (TI)<br>date : 346 - 350<br><a href=\"https://grammateus.unige.ch/document/22179\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0346-01-01"
+            },
+            "end": {
+              "in": "0350-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 19 2229",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0346-01-01/0350-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Warrant (TI)",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "22179"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/36865\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "P.Flor. 3 303",
+        "origPlace": "Arsinoites, \u00c4gypten",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "36865"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35203\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SPP 20 236",
+        "origPlace": "Arsinoites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "35203"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/78667\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 67 4628",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "78667"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 10. Apr. 321<br><a href=\"https://grammateus.unige.ch/document/45280\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0321-04-10"
+            },
+            "end": {
+              "in": "0321-04-10"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 38",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0321-04-10",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "45280"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 5. Mai 476<br><a href=\"https://grammateus.unige.ch/document/50666\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0476-05-05"
+            },
+            "end": {
+              "in": "0476-05-05"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "SB 28 16885",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0476-05-05",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "50666"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35940\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "P.Wisc. 2 67",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "35940"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Warrant (TI)<br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/38524\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.803581,
+          27.77962
+        ]
+      },
+      "properties": {
+        "title": "SB 20 14967",
+        "origPlace": "Hermopolis",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Warrant (TI)",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Hermopolis"
+      },
+      "@id": "38524"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 16. Apr. 325 (?)<br><a href=\"https://grammateus.unige.ch/document/45281\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0325-04-16"
+            },
+            "end": {
+              "in": "0325-04-16"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 39",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0325-04-16",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "45281"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32357\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 8 33",
+        "origPlace": "Hermopolites",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "32357"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33263\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "BGU 2 412",
+        "origPlace": "unbekannt",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter "
+      },
+      "@id": "33263"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33059\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "P.Strasb. 1 35",
+        "origPlace": "unbekannt",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          4,
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter "
+      },
+      "@id": "33059"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36848\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 59 4005",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "36848"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/36055\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "P.Vindob.Worp. 23",
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter "
+      },
+      "@id": "36055"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36531\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.517443,
+          26.899283
+        ]
+      },
+      "properties": {
+        "title": "P.Cair. Masp. 3 67322",
+        "origPlace": "Antaiopolis (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Antaiopolis"
+      },
+      "@id": "36531"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 26. Juni 472<br><a href=\"https://grammateus.unige.ch/document/50663\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0472-06-26"
+            },
+            "end": {
+              "in": "0472-06-26"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "SB 28 16882",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0472-06-26",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "50663"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : ca. 500<br><a href=\"https://grammateus.unige.ch/document/41035\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0500-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.839956,
+          29.314964
+        ]
+      },
+      "properties": {
+        "title": "P.Lund. 2 5",
+        "origPlace": "Arsinoiton Polis (?)",
+        "origDate": "[0500-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Arsinoiton Polis"
+      },
+      "@id": "41035"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 28. Sept. - 27. Okt. 484<br><a href=\"https://grammateus.unige.ch/document/702445\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0484-09-28"
+            },
+            "end": {
+              "in": "0484-10-27"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 82 5334",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0484-09-28/0484-10-27]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "702445"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 16. Juni 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45284\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0322-06-16"
+            },
+            "end": {
+              "in": "0322-06-16"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 45",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0322-06-16",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "45284"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38521\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "SB 20 14727",
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter "
+      },
+      "@id": "38521"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : ca. 624 (?)<br><a href=\"https://grammateus.unige.ch/document/22009\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0624-01-01"
+            },
+            "end": {
+              "in": "0624-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1862",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0624-01-01/0624-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "22009"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : Anfang VI<br><a href=\"https://grammateus.unige.ch/document/36040\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0525-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 36 2799",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0525-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "36040"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36108\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.916624,
+          28.766518
+        ]
+      },
+      "properties": {
+        "title": "P.Iand. 6 103",
+        "origPlace": "Ankyron ? (Herakleopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites",
+        "settlement": "Ankyron"
+      },
+      "@id": "36108"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32352\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 8 28",
+        "origPlace": "Hermopolites",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "32352"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br><a href=\"https://grammateus.unige.ch/document/35601\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0476-01-01"
+            },
+            "end": {
+              "in": "0525-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1872",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0476-01-01/0525-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35601"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/43230\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15752",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "43230"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35577\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 10 1300",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35577"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 21. Juni 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45279\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0322-06-21"
+            },
+            "end": {
+              "in": "0322-06-21"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 37",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0322-06-21",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "45279"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 26. Mai 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45278\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0322-05-26"
+            },
+            "end": {
+              "in": "0322-05-26"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 36",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "0322-05-26",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "45278"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 16. - 24. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114309\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0564-05-16"
+            },
+            "end": {
+              "in": "0564-05-24"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 72 4928",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0564-05-16/0564-05-24]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "114309"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V<br><a href=\"https://grammateus.unige.ch/document/35600\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0476-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1871",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0476-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35600"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/32646\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 34 2731",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "32646"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : ca. 357 - 362<br><a href=\"https://grammateus.unige.ch/document/20040\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0357-01-01"
+            },
+            "end": {
+              "in": "0362-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "PSI 3 217",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0357-01-01/0362-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "20040"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 300 - 301<br><a href=\"https://grammateus.unige.ch/document/15776\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0300-01-01"
+            },
+            "end": {
+              "in": "0301-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 12",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "[0300-01-01/0301-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "15776"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/34784\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "title": "P.Rainer Cent. 134",
+        "origPlace": "Hermopolis (?)",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "settlement": "Hermopolis"
+      },
+      "@id": "34784"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38035\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "SPP 8 1067",
+        "origPlace": "Hermopolites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "38035"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 14. Jan. 517<br><a href=\"https://grammateus.unige.ch/document/22051\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0517-01-14"
+            },
+            "end": {
+              "in": "0517-01-14"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1945",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0517-01-14",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "22051"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37845\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1838",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37845"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : 28. Jan. 342<br><a href=\"https://grammateus.unige.ch/document/15398\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0342-01-28"
+            },
+            "end": {
+              "in": "0342-01-28"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.934582,
+          29.0855
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 50 3577",
+        "origPlace": "Herakleopolis",
+        "origDate": "0342-01-28",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites",
+        "settlement": "Herakleopolis"
+      },
+      "@id": "15398"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37887\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1935",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37887"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38034\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "SPP 8 1066",
+        "origPlace": "Hermopolites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "38034"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/34785\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "title": "P.Rainer Cent. 135 r",
+        "origPlace": "Hermopolis (?)",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "settlement": "Hermopolis"
+      },
+      "@id": "34785"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36810\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416623,
+          26.833145
+        ]
+      },
+      "properties": {
+        "title": "P.Cair. Masp. 1 67068",
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
+      },
+      "@id": "36810"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : Mitte VI<br><a href=\"https://grammateus.unige.ch/document/36804\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0526-01-01"
+            },
+            "end": {
+              "in": "0575-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.517443,
+          26.899283
+        ]
+      },
+      "properties": {
+        "title": "P.Cair. Masp. 1 67061",
+        "origPlace": "Antaiopolis",
+        "origDate": "[0526-01-01/0575-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Antaiopolis"
+      },
+      "@id": "36804"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130554\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "P.Prag. 3 230",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "130554"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35855\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.005031,
+          29.09279
+        ]
+      },
+      "properties": {
+        "title": "P.Rainer Cent. 137",
+        "origPlace": "Herakleopolites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites"
+      },
+      "@id": "35855"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38395\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.909773,
+          31.201435
+        ]
+      },
+      "properties": {
+        "title": "P.Col. 11 302",
+        "origPlace": "Alexandria (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "settlement": "Alexandria"
+      },
+      "@id": "38395"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35672\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.803581,
+          27.77962
+        ]
+      },
+      "properties": {
+        "title": "SPP 8 1065",
+        "origPlace": "Hermopolis",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Hermopolis"
+      },
+      "@id": "35672"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : Mitte VII<br><a href=\"https://grammateus.unige.ch/document/35857\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0626-01-01"
+            },
+            "end": {
+              "in": "0675-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.248629,
+          29.62792
+        ]
+      },
+      "properties": {
+        "title": "P.Rainer Cent. 139",
+        "origPlace": "Memphites",
+        "origDate": "[0626-01-01/0675-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Memphites"
+      },
+      "@id": "35857"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36812\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416623,
+          26.833145
+        ]
+      },
+      "properties": {
+        "title": "P.Cair. Masp. 1 67070",
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
+      },
+      "@id": "36812"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38036\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "SPP 8 1068",
+        "origPlace": "Hermopolites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "38036"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37847\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1840",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37847"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37089\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15754",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "37089"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : ca. 553<br><a href=\"https://grammateus.unige.ch/document/36803\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0553-01-01"
+            },
+            "end": {
+              "in": "0553-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.517443,
+          26.899283
+        ]
+      },
+      "properties": {
+        "title": "P.Cair. Masp. 1 67060",
+        "origPlace": "Antaiopolis",
+        "origDate": "[0553-01-01/0553-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Antaiopolis"
+      },
+      "@id": "36803"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI (?)<br><a href=\"https://grammateus.unige.ch/document/37466\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 56 3866",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37466"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 21. Mai 564<br><a href=\"https://grammateus.unige.ch/document/37894\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0564-05-21"
+            },
+            "end": {
+              "in": "0564-05-21"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1952",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0564-05-21",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37894"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : 19. Okt. 623 (Tag unsicher)<br><a href=\"https://grammateus.unige.ch/document/15360\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0623-10-19"
+            },
+            "end": {
+              "in": "0623-10-19"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 51 3637",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0623-10-19",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "15360"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38556\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.881003,
+          27.810562
+        ]
+      },
+      "properties": {
+        "title": "PSI 15 1569",
+        "origPlace": "Antinoopolis (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antinoites",
+        "settlement": "Antinoopolis"
+      },
+      "@id": "38556"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/34783\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.005031,
+          29.09279
+        ]
+      },
+      "properties": {
+        "title": "P.Rainer Cent. 133",
+        "origPlace": "Herakleopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites"
+      },
+      "@id": "34783"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 1. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/35310\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0550-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 7 1071",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0550-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35310"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130552\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "P.Prag. 3 228",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "130552"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36631\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.005031,
+          29.09279
+        ]
+      },
+      "properties": {
+        "title": "SPP 20 254",
+        "origPlace": "Herakleopolites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites"
+      },
+      "@id": "36631"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 2. Jan. 360<br><a href=\"https://grammateus.unige.ch/document/21601\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0360-01-02"
+            },
+            "end": {
+              "in": "0360-01-02"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 56 3875",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0360-01-02",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "21601"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35851\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.803581,
+          27.77962
+        ]
+      },
+      "properties": {
+        "title": "P.Rainer Cent. 80",
+        "origPlace": "Hermopolis",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Hermopolis"
+      },
+      "@id": "35851"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : Anfang VII<br><a href=\"https://grammateus.unige.ch/document/39266\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0601-01-01"
+            },
+            "end": {
+              "in": "0625-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "P.Laur. 2 47",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0601-01-01/0625-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "39266"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/34781\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.803581,
+          27.77962
+        ]
+      },
+      "properties": {
+        "title": "P.Rainer Cent. 76",
+        "origPlace": "Hermopolis",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Hermopolis"
+      },
+      "@id": "34781"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33603\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 56 3862",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "33603"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : 340<br><a href=\"https://grammateus.unige.ch/document/22518\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0340-01-01"
+            },
+            "end": {
+              "in": "0340-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 55 3794",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0340-01-01/0340-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "22518"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37470\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 56 3870",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37470"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : Ende VI<br><a href=\"https://grammateus.unige.ch/document/36197\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0576-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 6 9138",
+        "origPlace": "Arsinoites, \u00c4gypten",
+        "origDate": "[0576-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "36197"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 14. Nov. 385<br><a href=\"https://grammateus.unige.ch/document/129799\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0385-11-14"
+            },
+            "end": {
+              "in": "0385-11-14"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Gen. 4 177",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0385-11-14",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "129799"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36168\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416623,
+          26.833145
+        ]
+      },
+      "properties": {
+        "title": "PSI 8 938",
+        "origPlace": "Aphrodites Kome (Antaiopolites, \u00c4gypten)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
+      },
+      "@id": "36168"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37086\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15746",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "37086"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 5. - 14. Apr. 365<br><a href=\"https://grammateus.unige.ch/document/22138\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0365-04-05"
+            },
+            "end": {
+              "in": "0365-04-14"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 63 4375",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0365-04-05/0365-04-14]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "22138"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37290\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "P.K\u00f6ln 3 166",
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter "
+      },
+      "@id": "37290"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37870\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1868",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37870"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37865\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1859",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37865"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37497\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "P.Prag. 2 197",
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter "
+      },
+      "@id": "37497"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130549\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "P.Prag. 3 225",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "130549"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37087\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15742",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "37087"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V - Anfang VI<br><a href=\"https://grammateus.unige.ch/document/172220\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0451-01-01"
+            },
+            "end": {
+              "in": "0525-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "APF 58 (2012) S. 305",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "[0451-01-01/0525-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "172220"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33591\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.897603,
+          29.51644
+        ]
+      },
+      "properties": {
+        "title": "P.NYU 1 25",
+        "origPlace": "Karanis (Arsinoites, \u00c4gypten)",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Karanis"
+      },
+      "@id": "33591"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/92439\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 25 8",
+        "origPlace": "Hermopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "92439"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 19. Juni 371<br><a href=\"https://grammateus.unige.ch/document/17433\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0371-06-19"
+            },
+            "end": {
+              "in": "0371-06-19"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "SB 16 12618",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0371-06-19",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "17433"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/35043\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "P.Vindob. Worp 19",
+        "origPlace": "unbekannt",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note "
+      },
+      "@id": "35043"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 31. Jan. 475<br><a href=\"https://grammateus.unige.ch/document/133452\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0475-01-31"
+            },
+            "end": {
+              "in": "0475-01-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "APF 56 (2010) S. 60",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0475-01-31",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "133452"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36210\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 58 3932",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "36210"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37866\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1860",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37866"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37480\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "P.Prag. 2 154",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "37480"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : Anfang IV<br><a href=\"https://grammateus.unige.ch/document/32513\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0325-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 43",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "[0301-01-01/0325-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "32513"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : Ende VI - Anfang VII<br><a href=\"https://grammateus.unige.ch/document/36013\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0576-01-01"
+            },
+            "end": {
+              "in": "0625-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.326702,
+          26.937588
+        ]
+      },
+      "properties": {
+        "title": "P.Gen. 4 168",
+        "origPlace": "Apollonopolis Heptakomias",
+        "origDate": "[0576-01-01/0625-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "settlement": "Apollonopolis Heptakomias"
+      },
+      "@id": "36013"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36198\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "SB 6 9139",
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter "
+      },
+      "@id": "36198"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37292\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "P.K\u00f6ln 6 281",
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter "
+      },
+      "@id": "37292"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37084\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15747",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "37084"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37090\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15755",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "37090"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36188\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "PSI 7 824",
+        "origPlace": "unbekannt",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter "
+      },
+      "@id": "36188"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V<br><a href=\"https://grammateus.unige.ch/document/35495\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0451-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "P.Heid. 7 409",
+        "origPlace": "unbekannt",
+        "origDate": "[0451-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter "
+      },
+      "@id": "35495"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : 360<br><a href=\"https://grammateus.unige.ch/document/92762\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0360-01-01"
+            },
+            "end": {
+              "in": "0360-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "P.Gen. 4 176",
+        "origPlace": "Arsinoites, \u00c4gypten",
+        "origDate": "[0360-01-01/0360-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "92762"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128705\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "P.Jena 2 24",
+        "origPlace": "Hermopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "128705"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : Anfang IV<br><a href=\"https://grammateus.unige.ch/document/32516\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0325-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 47",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "[0301-01-01/0325-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "32516"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 300 - 301<br><a href=\"https://grammateus.unige.ch/document/15778\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0300-01-01"
+            },
+            "end": {
+              "in": "0301-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 6 14",
+        "origPlace": "Pesla (Hermopolites) oder Hermopolis",
+        "origDate": "[0300-01-01/0301-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites",
+        "settlement": "Pesla"
+      },
+      "@id": "15778"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 8. M\u00e4rz 482<br><a href=\"https://grammateus.unige.ch/document/21813\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0482-03-08"
+            },
+            "end": {
+              "in": "0482-03-08"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 10 1335",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0482-03-08",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "21813"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35669\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "title": "SPP 8 1025",
+        "origPlace": "Hermopolis (?)",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "settlement": "Hermopolis"
+      },
+      "@id": "35669"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35119\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "SB 14 11330",
+        "origPlace": "unbekannt",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter "
+      },
+      "@id": "35119"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : No dataText<br><a href=\"https://grammateus.unige.ch/document/18048\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0548-07-01"
+            },
+            "end": {
+              "in": "0548-12-28"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.973882,
+          41.005902
+        ]
+      },
+      "properties": {
+        "title": "SB 4 7438",
+        "origPlace": "Konstantinopel oder Aphrodites Kome (Antaiopolites, \u00c4gypten)",
+        "origDate": "[0548-07-01/0548-12-28]",
+        "precision": "Medium",
+        "provenance": "composed",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "Thracia",
+        "settlement": "Konstantinopel"
+      },
+      "@id": "18048"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : No dataText<br><a href=\"https://grammateus.unige.ch/document/18048\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0548-07-01"
+            },
+            "end": {
+              "in": "0548-12-28"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416623,
+          26.833145
+        ]
+      },
+      "properties": {
+        "title": "SB 4 7438",
+        "origPlace": "Konstantinopel oder Aphrodites Kome (Antaiopolites, \u00c4gypten)",
+        "origDate": "[0548-07-01/0548-12-28]",
+        "precision": "Medium",
+        "provenance": "found",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
+      },
+      "@id": "18048"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37083\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15749",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "37083"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130559\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "P.Prag. 3 235",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "130559"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36809\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416623,
+          26.833145
+        ]
+      },
+      "properties": {
+        "title": "P.Cair. Masp. 1 67067",
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
+      },
+      "@id": "36809"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/36835\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0551-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 6 9396",
+        "origPlace": "Arsinoites",
+        "origDate": "[0551-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "36835"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128706\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "P.Jena 2 25",
+        "origPlace": "Hermopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "128706"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37134\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 6 941",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37134"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37849\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1842",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37849"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128707\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "P.Jena 2 26",
+        "origPlace": "Hermopolites",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "128707"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36808\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416623,
+          26.833145
+        ]
+      },
+      "properties": {
+        "title": "P.Cair. Masp. 1 67066",
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
+      },
+      "@id": "36808"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 27. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114310\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0564-05-27"
+            },
+            "end": {
+              "in": "0564-05-27"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 72 4929",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0564-05-27",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "114310"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br><a href=\"https://grammateus.unige.ch/document/19132\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0550-01-01"
+            },
+            "end": {
+              "in": "0558-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.881003,
+          27.810562
+        ]
+      },
+      "properties": {
+        "title": "SB 6 9616 R",
+        "origPlace": "Antinoopolis",
+        "origDate": "[0550-01-01/0558-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antinoites",
+        "settlement": "Antinoopolis"
+      },
+      "@id": "19132"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : ca. 325<br><a href=\"https://grammateus.unige.ch/document/17679\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0325-01-01"
+            },
+            "end": {
+              "in": "0325-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "PSI 7 825",
+        "origPlace": "unbekannt",
+        "origDate": "[0325-01-01/0325-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter "
+      },
+      "@id": "17679"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : No dataText<br><a href=\"https://grammateus.unige.ch/document/22007\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0577-05-01"
+            },
+            "end": {
+              "in": "0583-12-28"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1829",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0577-05-01/0583-12-28]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "22007"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35590\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 10 1350",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35590"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37146\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 1 157",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37146"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36264\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15745",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "36264"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 9. Aug. 410<br><a href=\"https://grammateus.unige.ch/document/15899\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0410-08-09"
+            },
+            "end": {
+              "in": "0410-08-09"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Wisc. 2 63",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0410-08-09",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "15899"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33686\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "SPP 8 983",
+        "origPlace": "Hermopolites",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "33686"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br><a href=\"https://grammateus.unige.ch/document/19133\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0550-01-01"
+            },
+            "end": {
+              "in": "0558-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.881003,
+          27.810562
+        ]
+      },
+      "properties": {
+        "title": "SB 6 9616 V",
+        "origPlace": "Antinoopolis",
+        "origDate": "[0550-01-01/0558-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antinoites",
+        "settlement": "Antinoopolis"
+      },
+      "@id": "19133"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36846\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.168106,
+          29.303135
+        ]
+      },
+      "properties": {
+        "title": "SB 6 9608",
+        "origPlace": "Koma (Arsinoites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Koma"
+      },
+      "@id": "36846"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : 314 - 324 (?)<br><a href=\"https://grammateus.unige.ch/document/17308\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0314-01-01"
+            },
+            "end": {
+              "in": "0324-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.881003,
+          27.810562
+        ]
+      },
+      "properties": {
+        "title": "P.Ryl. 4 607",
+        "origPlace": "Antinoopolis",
+        "origDate": "[0314-01-01/0324-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antinoites",
+        "settlement": "Antinoopolis"
+      },
+      "@id": "17308"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : 1. H\u00e4lfte V<br><a href=\"https://grammateus.unige.ch/document/35181\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0450-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "BGU 4 1035",
+        "origPlace": "Arsinoites",
+        "origDate": "[0401-01-01/0450-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "35181"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Warrant (TI)<br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/38314\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0700-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "P.Lond. 3 1309 (S. 251)",
+        "origPlace": "Hermopolites",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7,
+          8
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Warrant (TI)",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "38314"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : ca. 317 - 323<br><a href=\"https://grammateus.unige.ch/document/21123\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0317-01-01"
+            },
+            "end": {
+              "in": "0323-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.379406,
+          31.037798
+        ]
+      },
+      "properties": {
+        "title": "P.Herm. 4",
+        "origPlace": "Hermopolis (?)",
+        "origDate": "[0317-01-01/0323-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "settlement": "Hermopolis"
+      },
+      "@id": "21123"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : 21. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114307\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0564-05-21"
+            },
+            "end": {
+              "in": "0564-05-21"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 72 4926",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0564-05-21",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "114307"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 25. Juli 624 (Jahr unsicher)<br><a href=\"https://grammateus.unige.ch/document/22010\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0624-07-25"
+            },
+            "end": {
+              "in": "0624-07-25"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1863",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0624-07-25",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "22010"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37145\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 1 156",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37145"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37144\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 1 155",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "37144"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Warrant (TI)<br>date : Mitte I - Mitte II<br><a href=\"https://grammateus.unige.ch/document/316224\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0026-01-01"
+            },
+            "end": {
+              "in": "0175-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.968603,
+          29.206382
+        ]
+      },
+      "properties": {
+        "title": "BGU 20 2861",
+        "origPlace": "Ptolemais Hormu (Arsinoites)",
+        "origDate": "[0026-01-01/0175-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          1,
+          2
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Warrant (TI)",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites",
+        "settlement": "Ptolemais Hormu"
+      },
+      "@id": "316224"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : sp\u00e4tes IV<br><a href=\"https://grammateus.unige.ch/document/32819\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0376-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.157504,
+          34.173933
+        ]
+      },
+      "properties": {
+        "title": "SB 16 12623",
+        "origPlace": "unbekannt",
+        "origDate": "[0376-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "unknown",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay "
+      },
+      "@id": "32819"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br><a href=\"https://grammateus.unige.ch/document/35596\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0476-01-01"
+            },
+            "end": {
+              "in": "0525-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1834",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0476-01-01/0525-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35596"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36262\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.734733,
+          29.286327
+        ]
+      },
+      "properties": {
+        "title": "SB 22 15753",
+        "origPlace": "Arsinoites",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Transmission of Information ",
+        "subtype": "Business Note ",
+        "region": "\u00c4gypten",
+        "nome": "Arsinoites"
+      },
+      "@id": "36262"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : 1. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/33680\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0550-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1929",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0501-01-01/0550-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "33680"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 20. Jan. 389<br><a href=\"https://grammateus.unige.ch/document/17481\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0389-01-20"
+            },
+            "end": {
+              "in": "0389-01-20"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "PSI 9 1073",
+        "origPlace": "Oxyrhynchites",
+        "origDate": "0389-01-20",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "17481"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32365\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0301-01-01"
+            },
+            "end": {
+              "in": "0400-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895743,
+          30.382095
+        ]
+      },
+      "properties": {
+        "title": "CPR 8 42",
+        "origPlace": "Hermopolites",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          4,
+          5
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Hermopolites"
+      },
+      "@id": "32365"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35967\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75,
+          28.25
+        ]
+      },
+      "properties": {
+        "title": "P.Wash. Univ. 1 8",
+        "origPlace": "Oxyrhynchites (?)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites"
+      },
+      "@id": "35967"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Official Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35594\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "P.Oxy. 16 1832",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Official Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "35594"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : 26. Apr. 379<br><a href=\"https://grammateus.unige.ch/document/22003\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0379-04-26"
+            },
+            "end": {
+              "in": "0379-04-26"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65172,
+          28.542574
+        ]
+      },
+      "properties": {
+        "title": "BASP 57 (2020) S. 329 Nr . 1",
+        "origPlace": "Oxyrhynchos",
+        "origDate": "0379-04-26",
+        "precision": "High",
+        "provenance": "located",
+        "centuries": [
+          4
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Oxyrhynchites",
+        "settlement": "Oxyrhynchos"
+      },
+      "@id": "22003"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37234\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0501-01-01"
+            },
+            "end": {
+              "in": "0600-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.416623,
+          26.833145
+        ]
+      },
+      "properties": {
+        "title": "P.Fouad 89",
+        "origPlace": "Aphrodites Kome (Antaiopolites)",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          6,
+          7
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Private Letter ",
+        "region": "\u00c4gypten",
+        "nome": "Antaiopolites",
+        "settlement": "Aphrodites Kome"
+      },
+      "@id": "37234"
+    },
+    {
+      "type": "Feature",
+      "descriptions": {
+        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35190\">Grammateus Link</a></p>"
+      },
+      "when": {
+        "timespans": [
+          {
+            "start": {
+              "in": "0401-01-01"
+            },
+            "end": {
+              "in": "0500-12-31"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.005031,
+          29.09279
+        ]
+      },
+      "properties": {
+        "title": "SPP 20 164",
+        "origPlace": "Herakleopolites",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
+        "provenance": "located",
+        "centuries": [
+          5,
+          6
+        ],
+        "type": "Epistolary Exchange ",
+        "subtype": "Business Letter ",
+        "variation": "Order to Pay ",
+        "region": "\u00c4gypten",
+        "nome": "Herakleopolites"
+      },
+      "@id": "35190"
+    }
+  ]
+}
