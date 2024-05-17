@@ -102,6 +102,8 @@
 
   ul {
     background-color:#fff;
+    max-height:300px;
+    overflow-y:auto;
     list-style-type:none;
     margin:0;
     padding:0; 

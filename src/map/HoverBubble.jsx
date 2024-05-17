@@ -21,7 +21,7 @@ const Hover = props => {
       className="p6o-map-hover"
       style={style}>
       {colocated > 0 ?
-        <>{node.title} <span className="p6o-map-hover-colocated">+ {colocated} more</span></> : <>{node.title}</> 
+        <>{node.properties.coord_name} <span className="p6o-map-hover-colocated">+ {colocated} more</span></> : <>{node.properties.coord_name}</> 
       }
       {node.geometry?.granularity &&
         <div className="p6o-map-hover-granularity">
