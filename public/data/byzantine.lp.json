@@ -6,7 +6,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32816\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -47,7 +47,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33711\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -90,7 +90,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 18. Jan. 362<br><a href=\"https://grammateus.unige.ch/document/17664\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 18. Jan. 362<br></p>"
       },
       "when": {
         "timespans": [
@@ -133,7 +133,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/704796\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -174,7 +174,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 8. Sept. 473<br><a href=\"https://grammateus.unige.ch/document/50665\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 8. Sept. 473<br></p>"
       },
       "when": {
         "timespans": [
@@ -215,7 +215,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 16. Mai 473<br><a href=\"https://grammateus.unige.ch/document/50664\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 16. Mai 473<br></p>"
       },
       "when": {
         "timespans": [
@@ -256,7 +256,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI (?)<br><a href=\"https://grammateus.unige.ch/document/38527\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -299,7 +299,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35598\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -343,7 +343,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/34876\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -387,7 +387,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35413\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -427,7 +427,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35607\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -470,7 +470,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Warrant (TI)<br>date : 346 - 350<br><a href=\"https://grammateus.unige.ch/document/22179\">Grammateus Link</a></p>"
+        "value": "<p>Warrant (TI)<br>date : 346 - 350<br></p>"
       },
       "when": {
         "timespans": [
@@ -512,7 +512,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/36865\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -554,7 +554,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35203\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -597,7 +597,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/78667\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -639,7 +639,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 10. Apr. 321<br><a href=\"https://grammateus.unige.ch/document/45280\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 10. Apr. 321<br></p>"
       },
       "when": {
         "timespans": [
@@ -681,7 +681,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 5. Mai 476<br><a href=\"https://grammateus.unige.ch/document/50666\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 5. Mai 476<br></p>"
       },
       "when": {
         "timespans": [
@@ -722,7 +722,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35940\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -764,7 +764,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Warrant (TI)<br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/38524\">Grammateus Link</a></p>"
+        "value": "<p>Warrant (TI)<br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -808,7 +808,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 16. Apr. 325 (?)<br><a href=\"https://grammateus.unige.ch/document/45281\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 16. Apr. 325 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -851,7 +851,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32357\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -894,7 +894,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33263\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -934,7 +934,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33059\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -975,7 +975,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36848\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1018,7 +1018,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/36055\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -1059,7 +1059,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36531\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1102,7 +1102,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 26. Juni 472<br><a href=\"https://grammateus.unige.ch/document/50663\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 26. Juni 472<br></p>"
       },
       "when": {
         "timespans": [
@@ -1143,7 +1143,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : ca. 500<br><a href=\"https://grammateus.unige.ch/document/41035\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : ca. 500<br></p>"
       },
       "when": {
         "timespans": [
@@ -1185,7 +1185,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 28. Sept. - 27. Okt. 484<br><a href=\"https://grammateus.unige.ch/document/702445\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 28. Sept. - 27. Okt. 484<br></p>"
       },
       "when": {
         "timespans": [
@@ -1227,7 +1227,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 16. Juni 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45284\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 16. Juni 322 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -1269,7 +1269,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38521\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1309,7 +1309,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : ca. 624 (?)<br><a href=\"https://grammateus.unige.ch/document/22009\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : ca. 624 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -1351,7 +1351,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : Anfang VI<br><a href=\"https://grammateus.unige.ch/document/36040\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : Anfang VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1393,7 +1393,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36108\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1436,7 +1436,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32352\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -1478,7 +1478,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br><a href=\"https://grammateus.unige.ch/document/35601\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1521,7 +1521,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/43230\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1563,7 +1563,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35577\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -1606,7 +1606,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 21. Juni 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45279\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 21. Juni 322 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -1648,7 +1648,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 26. Mai 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45278\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 26. Mai 322 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -1690,7 +1690,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 16. - 24. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114309\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 16. - 24. Mai 564<br></p>"
       },
       "when": {
         "timespans": [
@@ -1731,7 +1731,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : sp\u00e4tes V<br><a href=\"https://grammateus.unige.ch/document/35600\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V<br></p>"
       },
       "when": {
         "timespans": [
@@ -1774,7 +1774,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/32646\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -1818,7 +1818,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : ca. 357 - 362<br><a href=\"https://grammateus.unige.ch/document/20040\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : ca. 357 - 362<br></p>"
       },
       "when": {
         "timespans": [
@@ -1861,7 +1861,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 300 - 301<br><a href=\"https://grammateus.unige.ch/document/15776\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 300 - 301<br></p>"
       },
       "when": {
         "timespans": [
@@ -1903,7 +1903,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/34784\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -1946,7 +1946,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38035\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1988,7 +1988,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 14. Jan. 517<br><a href=\"https://grammateus.unige.ch/document/22051\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 14. Jan. 517<br></p>"
       },
       "when": {
         "timespans": [
@@ -2030,7 +2030,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37845\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2073,7 +2073,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 28. Jan. 342<br><a href=\"https://grammateus.unige.ch/document/15398\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 28. Jan. 342<br></p>"
       },
       "when": {
         "timespans": [
@@ -2115,7 +2115,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37887\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2158,7 +2158,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38034\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2200,7 +2200,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/34785\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -2243,7 +2243,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36810\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2286,7 +2286,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : Mitte VI<br><a href=\"https://grammateus.unige.ch/document/36804\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : Mitte VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2328,7 +2328,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130554\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2370,7 +2370,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35855\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2412,7 +2412,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38395\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2453,7 +2453,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35672\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2497,7 +2497,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : Mitte VII<br><a href=\"https://grammateus.unige.ch/document/35857\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : Mitte VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -2538,7 +2538,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36812\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2581,7 +2581,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38036\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2623,7 +2623,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37847\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2666,7 +2666,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37089\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2708,7 +2708,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : ca. 553<br><a href=\"https://grammateus.unige.ch/document/36803\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : ca. 553<br></p>"
       },
       "when": {
         "timespans": [
@@ -2750,7 +2750,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI (?)<br><a href=\"https://grammateus.unige.ch/document/37466\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -2793,7 +2793,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 21. Mai 564<br><a href=\"https://grammateus.unige.ch/document/37894\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 21. Mai 564<br></p>"
       },
       "when": {
         "timespans": [
@@ -2835,7 +2835,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 19. Okt. 623 (Tag unsicher)<br><a href=\"https://grammateus.unige.ch/document/15360\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 19. Okt. 623 (Tag unsicher)<br></p>"
       },
       "when": {
         "timespans": [
@@ -2877,7 +2877,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38556\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2920,7 +2920,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/34783\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2963,7 +2963,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 1. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/35310\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 1. H\u00e4lfte VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3005,7 +3005,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130552\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3047,7 +3047,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36631\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3089,7 +3089,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 2. Jan. 360<br><a href=\"https://grammateus.unige.ch/document/21601\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 2. Jan. 360<br></p>"
       },
       "when": {
         "timespans": [
@@ -3132,7 +3132,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35851\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3175,7 +3175,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : Anfang VII<br><a href=\"https://grammateus.unige.ch/document/39266\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : Anfang VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3216,7 +3216,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/34781\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3260,7 +3260,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33603\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -3304,7 +3304,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 340<br><a href=\"https://grammateus.unige.ch/document/22518\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 340<br></p>"
       },
       "when": {
         "timespans": [
@@ -3346,7 +3346,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37470\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3390,7 +3390,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : Ende VI<br><a href=\"https://grammateus.unige.ch/document/36197\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : Ende VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3432,7 +3432,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 14. Nov. 385<br><a href=\"https://grammateus.unige.ch/document/129799\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 14. Nov. 385<br></p>"
       },
       "when": {
         "timespans": [
@@ -3475,7 +3475,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36168\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3518,7 +3518,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37086\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3560,7 +3560,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 5. - 14. Apr. 365<br><a href=\"https://grammateus.unige.ch/document/22138\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 5. - 14. Apr. 365<br></p>"
       },
       "when": {
         "timespans": [
@@ -3603,7 +3603,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37290\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3644,7 +3644,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37870\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3688,7 +3688,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37865\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3732,7 +3732,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37497\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3772,7 +3772,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130549\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3814,7 +3814,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37087\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3856,7 +3856,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V - Anfang VI<br><a href=\"https://grammateus.unige.ch/document/172220\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V - Anfang VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3898,7 +3898,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33591\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -3941,7 +3941,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/92439\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3984,7 +3984,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 19. Juni 371<br><a href=\"https://grammateus.unige.ch/document/17433\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 19. Juni 371<br></p>"
       },
       "when": {
         "timespans": [
@@ -4026,7 +4026,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/35043\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -4068,7 +4068,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 31. Jan. 475<br><a href=\"https://grammateus.unige.ch/document/133452\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 31. Jan. 475<br></p>"
       },
       "when": {
         "timespans": [
@@ -4109,7 +4109,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36210\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4152,7 +4152,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37866\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -4196,7 +4196,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37480\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4238,7 +4238,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : Anfang IV<br><a href=\"https://grammateus.unige.ch/document/32513\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : Anfang IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -4280,7 +4280,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : Ende VI - Anfang VII<br><a href=\"https://grammateus.unige.ch/document/36013\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : Ende VI - Anfang VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -4321,7 +4321,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36198\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4361,7 +4361,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37292\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4401,7 +4401,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37084\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4443,7 +4443,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37090\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4485,7 +4485,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36188\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4525,7 +4525,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V<br><a href=\"https://grammateus.unige.ch/document/35495\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V<br></p>"
       },
       "when": {
         "timespans": [
@@ -4565,7 +4565,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 360<br><a href=\"https://grammateus.unige.ch/document/92762\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 360<br></p>"
       },
       "when": {
         "timespans": [
@@ -4606,7 +4606,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128705\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4649,7 +4649,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : Anfang IV<br><a href=\"https://grammateus.unige.ch/document/32516\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : Anfang IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -4692,7 +4692,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 300 - 301<br><a href=\"https://grammateus.unige.ch/document/15778\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 300 - 301<br></p>"
       },
       "when": {
         "timespans": [
@@ -4734,7 +4734,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 8. M\u00e4rz 482<br><a href=\"https://grammateus.unige.ch/document/21813\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 8. M\u00e4rz 482<br></p>"
       },
       "when": {
         "timespans": [
@@ -4776,7 +4776,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35669\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -4817,7 +4817,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35119\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -4857,7 +4857,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 2. H\u00e4lfte (?) 548<br><a href=\"https://grammateus.unige.ch/document/18048\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 2. H\u00e4lfte (?) 548<br></p>"
       },
       "when": {
         "timespans": [
@@ -4898,7 +4898,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 2. H\u00e4lfte (?) 548<br><a href=\"https://grammateus.unige.ch/document/18048\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 2. H\u00e4lfte (?) 548<br></p>"
       },
       "when": {
         "timespans": [
@@ -4940,7 +4940,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37083\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4982,7 +4982,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130559\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5024,7 +5024,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36809\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5067,7 +5067,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/36835\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5109,7 +5109,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128706\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5152,7 +5152,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37134\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5195,7 +5195,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37849\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5238,7 +5238,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128707\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5281,7 +5281,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36808\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5324,7 +5324,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 27. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114310\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 27. Mai 564<br></p>"
       },
       "when": {
         "timespans": [
@@ -5365,7 +5365,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br><a href=\"https://grammateus.unige.ch/document/19132\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -5407,7 +5407,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : ca. 325<br><a href=\"https://grammateus.unige.ch/document/17679\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : ca. 325<br></p>"
       },
       "when": {
         "timespans": [
@@ -5446,7 +5446,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : ca. Mai 577 - Dez. 583<br><a href=\"https://grammateus.unige.ch/document/22007\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : ca. Mai 577 - Dez. 583<br></p>"
       },
       "when": {
         "timespans": [
@@ -5488,7 +5488,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35590\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5532,7 +5532,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37146\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5575,7 +5575,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36264\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5617,7 +5617,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 9. Aug. 410<br><a href=\"https://grammateus.unige.ch/document/15899\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 9. Aug. 410<br></p>"
       },
       "when": {
         "timespans": [
@@ -5660,7 +5660,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33686\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -5704,7 +5704,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br><a href=\"https://grammateus.unige.ch/document/19133\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -5746,7 +5746,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36846\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5789,7 +5789,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 314 - 324 (?)<br><a href=\"https://grammateus.unige.ch/document/17308\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 314 - 324 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -5831,7 +5831,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 1. H\u00e4lfte V<br><a href=\"https://grammateus.unige.ch/document/35181\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 1. H\u00e4lfte V<br></p>"
       },
       "when": {
         "timespans": [
@@ -5872,7 +5872,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Warrant (TI)<br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/38314\">Grammateus Link</a></p>"
+        "value": "<p>Warrant (TI)<br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -5915,7 +5915,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : ca. 317 - 323<br><a href=\"https://grammateus.unige.ch/document/21123\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : ca. 317 - 323<br></p>"
       },
       "when": {
         "timespans": [
@@ -5955,7 +5955,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 21. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114307\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 21. Mai 564<br></p>"
       },
       "when": {
         "timespans": [
@@ -5996,7 +5996,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 25. Juli 624 (Jahr unsicher)<br><a href=\"https://grammateus.unige.ch/document/22010\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 25. Juli 624 (Jahr unsicher)<br></p>"
       },
       "when": {
         "timespans": [
@@ -6038,7 +6038,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37145\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6081,7 +6081,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37144\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6124,7 +6124,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Warrant (TI)<br>date : Mitte I - Mitte II<br><a href=\"https://grammateus.unige.ch/document/316224\">Grammateus Link</a></p>"
+        "value": "<p>Warrant (TI)<br>date : Mitte I - Mitte II<br></p>"
       },
       "when": {
         "timespans": [
@@ -6167,7 +6167,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : sp\u00e4tes IV<br><a href=\"https://grammateus.unige.ch/document/32819\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : sp\u00e4tes IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -6208,7 +6208,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br><a href=\"https://grammateus.unige.ch/document/35596\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6251,7 +6251,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36262\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6293,7 +6293,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : 1. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/33680\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : 1. H\u00e4lfte VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6335,7 +6335,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 20. Jan. 389<br><a href=\"https://grammateus.unige.ch/document/17481\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 20. Jan. 389<br></p>"
       },
       "when": {
         "timespans": [
@@ -6377,7 +6377,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32365\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -6420,7 +6420,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35967\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6462,7 +6462,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35594\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6506,7 +6506,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 26. Apr. 379<br><a href=\"https://grammateus.unige.ch/document/22003\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 26. Apr. 379<br></p>"
       },
       "when": {
         "timespans": [
@@ -6549,7 +6549,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37234\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6592,7 +6592,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35190\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [

@@ -42,8 +42,10 @@ export const parseWhen = arg => {
 
   let label;
 
-  if (earliest && latest) {
-    label = `${earliest}-${latest}`;
+  if (earliest == latest) {
+    label = `${earliest}`;
+  } else if (earliest && latest){
+    label = `from ${earliest} to ${latest}`;
   } else if (earliest) {
     label = `after ${earliest}`;
   } else if (latest) {
