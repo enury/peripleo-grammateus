@@ -6,7 +6,7 @@
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32816\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -39,14 +39,15 @@
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay "
+        "variation": "Order to Pay ",
+        "coord_name": "Unknown"
       },
-      "@id": "32816"
+      "@id": "https://grammateus.unige.ch/document/32816"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33711\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -81,14 +82,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "33711"
+      "@id": "https://grammateus.unige.ch/document/33711"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 18. Jan. 362<br><a href=\"https://grammateus.unige.ch/document/17664\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 18. Jan. 362<br></p>"
       },
       "when": {
         "timespans": [
@@ -123,14 +125,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "17664"
+      "@id": "https://grammateus.unige.ch/document/17664"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/704796\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -163,14 +166,15 @@
           8
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Private Letter "
+        "subtype": "Private Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "704796"
+      "@id": "https://grammateus.unige.ch/document/704796"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 8. Sept. 473<br><a href=\"https://grammateus.unige.ch/document/50665\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 8. Sept. 473<br></p>"
       },
       "when": {
         "timespans": [
@@ -203,14 +207,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "50665"
+      "@id": "https://grammateus.unige.ch/document/50665"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 16. Mai 473<br><a href=\"https://grammateus.unige.ch/document/50664\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 16. Mai 473<br></p>"
       },
       "when": {
         "timespans": [
@@ -243,14 +248,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "50664"
+      "@id": "https://grammateus.unige.ch/document/50664"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI (?)<br><a href=\"https://grammateus.unige.ch/document/38527\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -285,14 +291,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "38527"
+      "@id": "https://grammateus.unige.ch/document/38527"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35598\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -328,14 +335,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35598"
+      "@id": "https://grammateus.unige.ch/document/35598"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/34876\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -371,14 +379,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "settlement": "Philadelphia"
+        "settlement": "Philadelphia",
+        "coord_name": "Philadelphia"
       },
-      "@id": "34876"
+      "@id": "https://grammateus.unige.ch/document/34876"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35413\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -410,14 +419,15 @@
           6
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Private Letter "
+        "subtype": "Private Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "35413"
+      "@id": "https://grammateus.unige.ch/document/35413"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35607\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -452,14 +462,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35607"
+      "@id": "https://grammateus.unige.ch/document/35607"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Warrant (TI)<br>date : 346 - 350<br><a href=\"https://grammateus.unige.ch/document/22179\">Grammateus Link</a></p>"
+        "value": "<p>Warrant (TI)<br>date : 346 - 350<br></p>"
       },
       "when": {
         "timespans": [
@@ -493,14 +504,15 @@
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "22179"
+      "@id": "https://grammateus.unige.ch/document/22179"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/36865\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -534,14 +546,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "36865"
+      "@id": "https://grammateus.unige.ch/document/36865"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35203\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -576,14 +589,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "35203"
+      "@id": "https://grammateus.unige.ch/document/35203"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/78667\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -617,14 +631,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "78667"
+      "@id": "https://grammateus.unige.ch/document/78667"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 10. Apr. 321<br><a href=\"https://grammateus.unige.ch/document/45280\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 10. Apr. 321<br></p>"
       },
       "when": {
         "timespans": [
@@ -658,14 +673,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "45280"
+      "@id": "https://grammateus.unige.ch/document/45280"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 5. Mai 476<br><a href=\"https://grammateus.unige.ch/document/50666\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 5. Mai 476<br></p>"
       },
       "when": {
         "timespans": [
@@ -698,14 +714,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "50666"
+      "@id": "https://grammateus.unige.ch/document/50666"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35940\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -739,14 +756,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "35940"
+      "@id": "https://grammateus.unige.ch/document/35940"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Warrant (TI)<br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/38524\">Grammateus Link</a></p>"
+        "value": "<p>Warrant (TI)<br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -782,14 +800,15 @@
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Hermopolis"
+        "settlement": "Hermopolis",
+        "coord_name": "Hermopolis"
       },
-      "@id": "38524"
+      "@id": "https://grammateus.unige.ch/document/38524"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 16. Apr. 325 (?)<br><a href=\"https://grammateus.unige.ch/document/45281\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 16. Apr. 325 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -824,14 +843,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "45281"
+      "@id": "https://grammateus.unige.ch/document/45281"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32357\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -866,14 +886,15 @@
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "32357"
+      "@id": "https://grammateus.unige.ch/document/32357"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33263\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -905,14 +926,15 @@
           5
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Official Letter "
+        "subtype": "Official Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "33263"
+      "@id": "https://grammateus.unige.ch/document/33263"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33059\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -945,14 +967,15 @@
           6
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Business Letter "
+        "subtype": "Business Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "33059"
+      "@id": "https://grammateus.unige.ch/document/33059"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36848\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -987,14 +1010,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "36848"
+      "@id": "https://grammateus.unige.ch/document/36848"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/36055\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -1027,14 +1051,15 @@
           8
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Business Letter "
+        "subtype": "Business Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "36055"
+      "@id": "https://grammateus.unige.ch/document/36055"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36531\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1069,14 +1094,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Antaiopolis"
+        "settlement": "Antaiopolis",
+        "coord_name": "Antaiopolis"
       },
-      "@id": "36531"
+      "@id": "https://grammateus.unige.ch/document/36531"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 26. Juni 472<br><a href=\"https://grammateus.unige.ch/document/50663\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 26. Juni 472<br></p>"
       },
       "when": {
         "timespans": [
@@ -1109,14 +1135,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "50663"
+      "@id": "https://grammateus.unige.ch/document/50663"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : ca. 500<br><a href=\"https://grammateus.unige.ch/document/41035\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : ca. 500<br></p>"
       },
       "when": {
         "timespans": [
@@ -1150,14 +1177,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "settlement": "Arsinoiton Polis"
+        "settlement": "Arsinoiton Polis",
+        "coord_name": "Arsinoiton Polis"
       },
-      "@id": "41035"
+      "@id": "https://grammateus.unige.ch/document/41035"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 28. Sept. - 27. Okt. 484<br><a href=\"https://grammateus.unige.ch/document/702445\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 28. Sept. - 27. Okt. 484<br></p>"
       },
       "when": {
         "timespans": [
@@ -1191,14 +1219,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "702445"
+      "@id": "https://grammateus.unige.ch/document/702445"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 16. Juni 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45284\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 16. Juni 322 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -1232,14 +1261,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "45284"
+      "@id": "https://grammateus.unige.ch/document/45284"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38521\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1271,14 +1301,15 @@
           7
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Business Letter "
+        "subtype": "Business Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "38521"
+      "@id": "https://grammateus.unige.ch/document/38521"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : ca. 624 (?)<br><a href=\"https://grammateus.unige.ch/document/22009\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : ca. 624 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -1312,14 +1343,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "22009"
+      "@id": "https://grammateus.unige.ch/document/22009"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : Anfang VI<br><a href=\"https://grammateus.unige.ch/document/36040\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : Anfang VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1353,14 +1385,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "36040"
+      "@id": "https://grammateus.unige.ch/document/36040"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36108\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1395,14 +1428,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
-        "settlement": "Ankyron"
+        "settlement": "Ankyron",
+        "coord_name": "Ankyron"
       },
-      "@id": "36108"
+      "@id": "https://grammateus.unige.ch/document/36108"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32352\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -1436,14 +1470,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "32352"
+      "@id": "https://grammateus.unige.ch/document/32352"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br><a href=\"https://grammateus.unige.ch/document/35601\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1478,14 +1513,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35601"
+      "@id": "https://grammateus.unige.ch/document/35601"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/43230\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1519,14 +1555,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "43230"
+      "@id": "https://grammateus.unige.ch/document/43230"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35577\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -1561,14 +1598,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35577"
+      "@id": "https://grammateus.unige.ch/document/35577"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 21. Juni 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45279\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 21. Juni 322 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -1602,14 +1640,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "45279"
+      "@id": "https://grammateus.unige.ch/document/45279"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 26. Mai 322 (?)<br><a href=\"https://grammateus.unige.ch/document/45278\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 26. Mai 322 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -1643,14 +1682,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "45278"
+      "@id": "https://grammateus.unige.ch/document/45278"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 16. - 24. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114309\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 16. - 24. Mai 564<br></p>"
       },
       "when": {
         "timespans": [
@@ -1683,14 +1723,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "114309"
+      "@id": "https://grammateus.unige.ch/document/114309"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : sp\u00e4tes V<br><a href=\"https://grammateus.unige.ch/document/35600\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V<br></p>"
       },
       "when": {
         "timespans": [
@@ -1725,14 +1766,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35600"
+      "@id": "https://grammateus.unige.ch/document/35600"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/32646\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -1768,14 +1810,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "32646"
+      "@id": "https://grammateus.unige.ch/document/32646"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : ca. 357 - 362<br><a href=\"https://grammateus.unige.ch/document/20040\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : ca. 357 - 362<br></p>"
       },
       "when": {
         "timespans": [
@@ -1810,14 +1853,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "20040"
+      "@id": "https://grammateus.unige.ch/document/20040"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 300 - 301<br><a href=\"https://grammateus.unige.ch/document/15776\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 300 - 301<br></p>"
       },
       "when": {
         "timespans": [
@@ -1851,14 +1895,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "15776"
+      "@id": "https://grammateus.unige.ch/document/15776"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/34784\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -1893,14 +1938,15 @@
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
-        "settlement": "Hermopolis"
+        "settlement": "Hermopolis",
+        "coord_name": "Hermopolis"
       },
-      "@id": "34784"
+      "@id": "https://grammateus.unige.ch/document/34784"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38035\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -1934,14 +1980,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "38035"
+      "@id": "https://grammateus.unige.ch/document/38035"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 14. Jan. 517<br><a href=\"https://grammateus.unige.ch/document/22051\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 14. Jan. 517<br></p>"
       },
       "when": {
         "timespans": [
@@ -1975,14 +2022,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "22051"
+      "@id": "https://grammateus.unige.ch/document/22051"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37845\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2017,14 +2065,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37845"
+      "@id": "https://grammateus.unige.ch/document/37845"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 28. Jan. 342<br><a href=\"https://grammateus.unige.ch/document/15398\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 28. Jan. 342<br></p>"
       },
       "when": {
         "timespans": [
@@ -2058,14 +2107,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
-        "settlement": "Herakleopolis"
+        "settlement": "Herakleopolis",
+        "coord_name": "Herakleopolis"
       },
-      "@id": "15398"
+      "@id": "https://grammateus.unige.ch/document/15398"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37887\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2100,14 +2150,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37887"
+      "@id": "https://grammateus.unige.ch/document/37887"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38034\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2141,14 +2192,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "38034"
+      "@id": "https://grammateus.unige.ch/document/38034"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/34785\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -2183,14 +2235,15 @@
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
-        "settlement": "Hermopolis"
+        "settlement": "Hermopolis",
+        "coord_name": "Hermopolis"
       },
-      "@id": "34785"
+      "@id": "https://grammateus.unige.ch/document/34785"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36810\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2225,14 +2278,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Aphrodites Kome"
+        "settlement": "Aphrodites Kome",
+        "coord_name": "Aphrodites Kome"
       },
-      "@id": "36810"
+      "@id": "https://grammateus.unige.ch/document/36810"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : Mitte VI<br><a href=\"https://grammateus.unige.ch/document/36804\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : Mitte VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2266,14 +2320,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Antaiopolis"
+        "settlement": "Antaiopolis",
+        "coord_name": "Antaiopolis"
       },
-      "@id": "36804"
+      "@id": "https://grammateus.unige.ch/document/36804"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130554\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2307,14 +2362,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "130554"
+      "@id": "https://grammateus.unige.ch/document/130554"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35855\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2348,14 +2404,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Herakleopolites"
+        "nome": "Herakleopolites",
+        "coord_name": "Herakleopolites"
       },
-      "@id": "35855"
+      "@id": "https://grammateus.unige.ch/document/35855"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38395\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2388,14 +2445,15 @@
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
-        "settlement": "Alexandria"
+        "settlement": "Alexandria",
+        "coord_name": "Alexandria"
       },
-      "@id": "38395"
+      "@id": "https://grammateus.unige.ch/document/38395"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35672\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2431,14 +2489,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Hermopolis"
+        "settlement": "Hermopolis",
+        "coord_name": "Hermopolis"
       },
-      "@id": "35672"
+      "@id": "https://grammateus.unige.ch/document/35672"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : Mitte VII<br><a href=\"https://grammateus.unige.ch/document/35857\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : Mitte VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -2471,14 +2530,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Memphites"
+        "nome": "Memphites",
+        "coord_name": "Memphites"
       },
-      "@id": "35857"
+      "@id": "https://grammateus.unige.ch/document/35857"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36812\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2513,14 +2573,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Aphrodites Kome"
+        "settlement": "Aphrodites Kome",
+        "coord_name": "Aphrodites Kome"
       },
-      "@id": "36812"
+      "@id": "https://grammateus.unige.ch/document/36812"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38036\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2554,14 +2615,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "38036"
+      "@id": "https://grammateus.unige.ch/document/38036"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37847\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2596,14 +2658,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37847"
+      "@id": "https://grammateus.unige.ch/document/37847"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37089\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2637,14 +2700,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "37089"
+      "@id": "https://grammateus.unige.ch/document/37089"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : ca. 553<br><a href=\"https://grammateus.unige.ch/document/36803\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : ca. 553<br></p>"
       },
       "when": {
         "timespans": [
@@ -2678,14 +2742,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Antaiopolis"
+        "settlement": "Antaiopolis",
+        "coord_name": "Antaiopolis"
       },
-      "@id": "36803"
+      "@id": "https://grammateus.unige.ch/document/36803"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI (?)<br><a href=\"https://grammateus.unige.ch/document/37466\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -2720,14 +2785,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37466"
+      "@id": "https://grammateus.unige.ch/document/37466"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 21. Mai 564<br><a href=\"https://grammateus.unige.ch/document/37894\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 21. Mai 564<br></p>"
       },
       "when": {
         "timespans": [
@@ -2761,14 +2827,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37894"
+      "@id": "https://grammateus.unige.ch/document/37894"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 19. Okt. 623 (Tag unsicher)<br><a href=\"https://grammateus.unige.ch/document/15360\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 19. Okt. 623 (Tag unsicher)<br></p>"
       },
       "when": {
         "timespans": [
@@ -2802,14 +2869,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "15360"
+      "@id": "https://grammateus.unige.ch/document/15360"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/38556\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2844,14 +2912,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antinoites",
-        "settlement": "Antinoopolis"
+        "settlement": "Antinoopolis",
+        "coord_name": "Antinoopolis"
       },
-      "@id": "38556"
+      "@id": "https://grammateus.unige.ch/document/38556"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/34783\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2886,14 +2955,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Herakleopolites"
+        "nome": "Herakleopolites",
+        "coord_name": "Herakleopolites"
       },
-      "@id": "34783"
+      "@id": "https://grammateus.unige.ch/document/34783"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 1. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/35310\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 1. H\u00e4lfte VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2927,14 +2997,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35310"
+      "@id": "https://grammateus.unige.ch/document/35310"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130552\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -2968,14 +3039,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "130552"
+      "@id": "https://grammateus.unige.ch/document/130552"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36631\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3009,14 +3081,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
-        "nome": "Herakleopolites"
+        "nome": "Herakleopolites",
+        "coord_name": "Herakleopolites"
       },
-      "@id": "36631"
+      "@id": "https://grammateus.unige.ch/document/36631"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 2. Jan. 360<br><a href=\"https://grammateus.unige.ch/document/21601\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 2. Jan. 360<br></p>"
       },
       "when": {
         "timespans": [
@@ -3051,14 +3124,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "21601"
+      "@id": "https://grammateus.unige.ch/document/21601"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35851\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3093,14 +3167,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Hermopolis"
+        "settlement": "Hermopolis",
+        "coord_name": "Hermopolis"
       },
-      "@id": "35851"
+      "@id": "https://grammateus.unige.ch/document/35851"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : Anfang VII<br><a href=\"https://grammateus.unige.ch/document/39266\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : Anfang VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3133,14 +3208,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "39266"
+      "@id": "https://grammateus.unige.ch/document/39266"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/34781\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3176,14 +3252,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Hermopolis"
+        "settlement": "Hermopolis",
+        "coord_name": "Hermopolis"
       },
-      "@id": "34781"
+      "@id": "https://grammateus.unige.ch/document/34781"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33603\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -3219,14 +3296,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "33603"
+      "@id": "https://grammateus.unige.ch/document/33603"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 340<br><a href=\"https://grammateus.unige.ch/document/22518\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 340<br></p>"
       },
       "when": {
         "timespans": [
@@ -3260,14 +3338,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "22518"
+      "@id": "https://grammateus.unige.ch/document/22518"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37470\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3303,14 +3382,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37470"
+      "@id": "https://grammateus.unige.ch/document/37470"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : Ende VI<br><a href=\"https://grammateus.unige.ch/document/36197\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : Ende VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3344,14 +3424,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "36197"
+      "@id": "https://grammateus.unige.ch/document/36197"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 14. Nov. 385<br><a href=\"https://grammateus.unige.ch/document/129799\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 14. Nov. 385<br></p>"
       },
       "when": {
         "timespans": [
@@ -3386,14 +3467,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "129799"
+      "@id": "https://grammateus.unige.ch/document/129799"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36168\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3428,14 +3510,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Aphrodites Kome"
+        "settlement": "Aphrodites Kome",
+        "coord_name": "Aphrodites Kome"
       },
-      "@id": "36168"
+      "@id": "https://grammateus.unige.ch/document/36168"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37086\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3469,14 +3552,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "37086"
+      "@id": "https://grammateus.unige.ch/document/37086"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 5. - 14. Apr. 365<br><a href=\"https://grammateus.unige.ch/document/22138\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 5. - 14. Apr. 365<br></p>"
       },
       "when": {
         "timespans": [
@@ -3511,14 +3595,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "22138"
+      "@id": "https://grammateus.unige.ch/document/22138"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37290\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3551,14 +3636,15 @@
           8
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Business Letter "
+        "subtype": "Business Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "37290"
+      "@id": "https://grammateus.unige.ch/document/37290"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37870\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3594,14 +3680,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37870"
+      "@id": "https://grammateus.unige.ch/document/37870"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37865\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3637,14 +3724,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37865"
+      "@id": "https://grammateus.unige.ch/document/37865"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37497\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3676,14 +3764,15 @@
           7
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Official Letter "
+        "subtype": "Official Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "37497"
+      "@id": "https://grammateus.unige.ch/document/37497"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130549\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3717,14 +3806,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "130549"
+      "@id": "https://grammateus.unige.ch/document/130549"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37087\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3758,14 +3848,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "37087"
+      "@id": "https://grammateus.unige.ch/document/37087"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V - Anfang VI<br><a href=\"https://grammateus.unige.ch/document/172220\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V - Anfang VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3799,14 +3890,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "172220"
+      "@id": "https://grammateus.unige.ch/document/172220"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/33591\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -3841,14 +3933,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "settlement": "Karanis"
+        "settlement": "Karanis",
+        "coord_name": "Karanis"
       },
-      "@id": "33591"
+      "@id": "https://grammateus.unige.ch/document/33591"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/92439\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -3883,14 +3976,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "92439"
+      "@id": "https://grammateus.unige.ch/document/92439"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 19. Juni 371<br><a href=\"https://grammateus.unige.ch/document/17433\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 19. Juni 371<br></p>"
       },
       "when": {
         "timespans": [
@@ -3924,14 +4018,15 @@
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "17433"
+      "@id": "https://grammateus.unige.ch/document/17433"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VII<br><a href=\"https://grammateus.unige.ch/document/35043\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -3965,14 +4060,15 @@
           8
         ],
         "type": "Transmission of Information ",
-        "subtype": "Business Note "
+        "subtype": "Business Note ",
+        "coord_name": "Unknown"
       },
-      "@id": "35043"
+      "@id": "https://grammateus.unige.ch/document/35043"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 31. Jan. 475<br><a href=\"https://grammateus.unige.ch/document/133452\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 31. Jan. 475<br></p>"
       },
       "when": {
         "timespans": [
@@ -4005,14 +4101,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "133452"
+      "@id": "https://grammateus.unige.ch/document/133452"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36210\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4047,14 +4144,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "36210"
+      "@id": "https://grammateus.unige.ch/document/36210"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/37866\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -4090,14 +4188,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37866"
+      "@id": "https://grammateus.unige.ch/document/37866"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37480\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4131,14 +4230,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "37480"
+      "@id": "https://grammateus.unige.ch/document/37480"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : Anfang IV<br><a href=\"https://grammateus.unige.ch/document/32513\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : Anfang IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -4172,14 +4272,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "32513"
+      "@id": "https://grammateus.unige.ch/document/32513"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : Ende VI - Anfang VII<br><a href=\"https://grammateus.unige.ch/document/36013\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : Ende VI - Anfang VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -4212,14 +4313,15 @@
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "settlement": "Apollonopolis Heptakomias"
+        "settlement": "Apollonopolis Heptakomias",
+        "coord_name": "Apollonopolis Heptakomias"
       },
-      "@id": "36013"
+      "@id": "https://grammateus.unige.ch/document/36013"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36198\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4251,14 +4353,15 @@
           7
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Business Letter "
+        "subtype": "Business Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "36198"
+      "@id": "https://grammateus.unige.ch/document/36198"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37292\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4290,14 +4393,15 @@
           7
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Official Letter "
+        "subtype": "Official Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "37292"
+      "@id": "https://grammateus.unige.ch/document/37292"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37084\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4331,14 +4435,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "37084"
+      "@id": "https://grammateus.unige.ch/document/37084"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37090\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4372,14 +4477,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "37090"
+      "@id": "https://grammateus.unige.ch/document/37090"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36188\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4411,14 +4517,15 @@
           7
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Official Letter "
+        "subtype": "Official Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "36188"
+      "@id": "https://grammateus.unige.ch/document/36188"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V<br><a href=\"https://grammateus.unige.ch/document/35495\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte V<br></p>"
       },
       "when": {
         "timespans": [
@@ -4450,14 +4557,15 @@
           6
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Business Letter "
+        "subtype": "Business Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "35495"
+      "@id": "https://grammateus.unige.ch/document/35495"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 360<br><a href=\"https://grammateus.unige.ch/document/92762\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 360<br></p>"
       },
       "when": {
         "timespans": [
@@ -4490,14 +4598,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "92762"
+      "@id": "https://grammateus.unige.ch/document/92762"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128705\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4532,14 +4641,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "128705"
+      "@id": "https://grammateus.unige.ch/document/128705"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : Anfang IV<br><a href=\"https://grammateus.unige.ch/document/32516\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : Anfang IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -4574,14 +4684,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "32516"
+      "@id": "https://grammateus.unige.ch/document/32516"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 300 - 301<br><a href=\"https://grammateus.unige.ch/document/15778\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 300 - 301<br></p>"
       },
       "when": {
         "timespans": [
@@ -4615,14 +4726,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "settlement": "Pesla"
+        "settlement": "Pesla",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "15778"
+      "@id": "https://grammateus.unige.ch/document/15778"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 8. M\u00e4rz 482<br><a href=\"https://grammateus.unige.ch/document/21813\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 8. M\u00e4rz 482<br></p>"
       },
       "when": {
         "timespans": [
@@ -4656,14 +4768,15 @@
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "21813"
+      "@id": "https://grammateus.unige.ch/document/21813"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35669\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -4696,14 +4809,15 @@
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
-        "settlement": "Hermopolis"
+        "settlement": "Hermopolis",
+        "coord_name": "Hermopolis"
       },
-      "@id": "35669"
+      "@id": "https://grammateus.unige.ch/document/35669"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35119\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -4735,14 +4849,15 @@
           6
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Private Letter "
+        "subtype": "Private Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "35119"
+      "@id": "https://grammateus.unige.ch/document/35119"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : No dataText<br><a href=\"https://grammateus.unige.ch/document/18048\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 2. H\u00e4lfte (?) 548<br></p>"
       },
       "when": {
         "timespans": [
@@ -4775,14 +4890,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "Thracia",
-        "settlement": "Konstantinopel"
+        "settlement": "Konstantinopel",
+        "coord_name": "Konstantinopel"
       },
-      "@id": "18048"
+      "@id": "https://grammateus.unige.ch/document/18048"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : No dataText<br><a href=\"https://grammateus.unige.ch/document/18048\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 2. H\u00e4lfte (?) 548<br></p>"
       },
       "when": {
         "timespans": [
@@ -4816,14 +4932,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Aphrodites Kome"
+        "settlement": "Aphrodites Kome",
+        "coord_name": "Aphrodites Kome"
       },
-      "@id": "18048"
+      "@id": "https://grammateus.unige.ch/document/18048"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37083\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4857,14 +4974,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "37083"
+      "@id": "https://grammateus.unige.ch/document/37083"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/130559\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4898,14 +5016,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "130559"
+      "@id": "https://grammateus.unige.ch/document/130559"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36809\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4940,14 +5059,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Aphrodites Kome"
+        "settlement": "Aphrodites Kome",
+        "coord_name": "Aphrodites Kome"
       },
-      "@id": "36809"
+      "@id": "https://grammateus.unige.ch/document/36809"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/36835\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 2. H\u00e4lfte VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -4981,14 +5101,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "36835"
+      "@id": "https://grammateus.unige.ch/document/36835"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128706\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5023,14 +5144,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "128706"
+      "@id": "https://grammateus.unige.ch/document/128706"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37134\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5065,14 +5187,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37134"
+      "@id": "https://grammateus.unige.ch/document/37134"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37849\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5107,14 +5230,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37849"
+      "@id": "https://grammateus.unige.ch/document/37849"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/128707\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5149,14 +5273,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "128707"
+      "@id": "https://grammateus.unige.ch/document/128707"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36808\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5191,14 +5316,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Aphrodites Kome"
+        "settlement": "Aphrodites Kome",
+        "coord_name": "Aphrodites Kome"
       },
-      "@id": "36808"
+      "@id": "https://grammateus.unige.ch/document/36808"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 27. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114310\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 27. Mai 564<br></p>"
       },
       "when": {
         "timespans": [
@@ -5231,14 +5357,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "114310"
+      "@id": "https://grammateus.unige.ch/document/114310"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br><a href=\"https://grammateus.unige.ch/document/19132\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -5272,14 +5399,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Antinoites",
-        "settlement": "Antinoopolis"
+        "settlement": "Antinoopolis",
+        "coord_name": "Antinoopolis"
       },
-      "@id": "19132"
+      "@id": "https://grammateus.unige.ch/document/19132"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : ca. 325<br><a href=\"https://grammateus.unige.ch/document/17679\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : ca. 325<br></p>"
       },
       "when": {
         "timespans": [
@@ -5310,14 +5438,15 @@
           4
         ],
         "type": "Epistolary Exchange ",
-        "subtype": "Private Letter "
+        "subtype": "Private Letter ",
+        "coord_name": "Unknown"
       },
-      "@id": "17679"
+      "@id": "https://grammateus.unige.ch/document/17679"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : No dataText<br><a href=\"https://grammateus.unige.ch/document/22007\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : ca. Mai 577 - Dez. 583<br></p>"
       },
       "when": {
         "timespans": [
@@ -5351,14 +5480,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "22007"
+      "@id": "https://grammateus.unige.ch/document/22007"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35590\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5394,14 +5524,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35590"
+      "@id": "https://grammateus.unige.ch/document/35590"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37146\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5436,14 +5567,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37146"
+      "@id": "https://grammateus.unige.ch/document/37146"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36264\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5477,14 +5609,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "36264"
+      "@id": "https://grammateus.unige.ch/document/36264"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 9. Aug. 410<br><a href=\"https://grammateus.unige.ch/document/15899\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 9. Aug. 410<br></p>"
       },
       "when": {
         "timespans": [
@@ -5519,14 +5652,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "15899"
+      "@id": "https://grammateus.unige.ch/document/15899"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV - V<br><a href=\"https://grammateus.unige.ch/document/33686\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV - V<br></p>"
       },
       "when": {
         "timespans": [
@@ -5562,14 +5696,15 @@
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "33686"
+      "@id": "https://grammateus.unige.ch/document/33686"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br><a href=\"https://grammateus.unige.ch/document/19133\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : 550 - 558 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -5603,14 +5738,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Antinoites",
-        "settlement": "Antinoopolis"
+        "settlement": "Antinoopolis",
+        "coord_name": "Antinoopolis"
       },
-      "@id": "19133"
+      "@id": "https://grammateus.unige.ch/document/19133"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36846\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5645,14 +5781,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "settlement": "Koma"
+        "settlement": "Koma",
+        "coord_name": "Koma"
       },
-      "@id": "36846"
+      "@id": "https://grammateus.unige.ch/document/36846"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 314 - 324 (?)<br><a href=\"https://grammateus.unige.ch/document/17308\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 314 - 324 (?)<br></p>"
       },
       "when": {
         "timespans": [
@@ -5686,14 +5823,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antinoites",
-        "settlement": "Antinoopolis"
+        "settlement": "Antinoopolis",
+        "coord_name": "Antinoopolis"
       },
-      "@id": "17308"
+      "@id": "https://grammateus.unige.ch/document/17308"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : 1. H\u00e4lfte V<br><a href=\"https://grammateus.unige.ch/document/35181\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : 1. H\u00e4lfte V<br></p>"
       },
       "when": {
         "timespans": [
@@ -5726,14 +5864,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "35181"
+      "@id": "https://grammateus.unige.ch/document/35181"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Warrant (TI)<br>date : VI - VII<br><a href=\"https://grammateus.unige.ch/document/38314\">Grammateus Link</a></p>"
+        "value": "<p>Warrant (TI)<br>date : VI - VII<br></p>"
       },
       "when": {
         "timespans": [
@@ -5768,14 +5907,15 @@
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "38314"
+      "@id": "https://grammateus.unige.ch/document/38314"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : ca. 317 - 323<br><a href=\"https://grammateus.unige.ch/document/21123\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : ca. 317 - 323<br></p>"
       },
       "when": {
         "timespans": [
@@ -5807,14 +5947,15 @@
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
-        "settlement": "Hermopolis"
+        "settlement": "Hermopolis",
+        "coord_name": "Hermopolis"
       },
-      "@id": "21123"
+      "@id": "https://grammateus.unige.ch/document/21123"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : 21. Mai 564<br><a href=\"https://grammateus.unige.ch/document/114307\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : 21. Mai 564<br></p>"
       },
       "when": {
         "timespans": [
@@ -5847,14 +5988,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "114307"
+      "@id": "https://grammateus.unige.ch/document/114307"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 25. Juli 624 (Jahr unsicher)<br><a href=\"https://grammateus.unige.ch/document/22010\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 25. Juli 624 (Jahr unsicher)<br></p>"
       },
       "when": {
         "timespans": [
@@ -5888,14 +6030,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "22010"
+      "@id": "https://grammateus.unige.ch/document/22010"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37145\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5930,14 +6073,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37145"
+      "@id": "https://grammateus.unige.ch/document/37145"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37144\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -5972,14 +6116,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "37144"
+      "@id": "https://grammateus.unige.ch/document/37144"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Warrant (TI)<br>date : Mitte I - Mitte II<br><a href=\"https://grammateus.unige.ch/document/316224\">Grammateus Link</a></p>"
+        "value": "<p>Warrant (TI)<br>date : Mitte I - Mitte II<br></p>"
       },
       "when": {
         "timespans": [
@@ -6014,14 +6159,15 @@
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "settlement": "Ptolemais Hormu"
+        "settlement": "Ptolemais Hormu",
+        "coord_name": "Ptolemais Hormu"
       },
-      "@id": "316224"
+      "@id": "https://grammateus.unige.ch/document/316224"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : sp\u00e4tes IV<br><a href=\"https://grammateus.unige.ch/document/32819\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : sp\u00e4tes IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -6054,14 +6200,15 @@
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay "
+        "variation": "Order to Pay ",
+        "coord_name": "Unknown"
       },
-      "@id": "32819"
+      "@id": "https://grammateus.unige.ch/document/32819"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br><a href=\"https://grammateus.unige.ch/document/35596\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : sp\u00e4tes V - fr\u00fches VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6096,14 +6243,15 @@
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35596"
+      "@id": "https://grammateus.unige.ch/document/35596"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Note <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/36262\">Grammateus Link</a></p>"
+        "value": "<p>Business Note <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6137,14 +6285,15 @@
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
-        "nome": "Arsinoites"
+        "nome": "Arsinoites",
+        "coord_name": "Arsinoites"
       },
-      "@id": "36262"
+      "@id": "https://grammateus.unige.ch/document/36262"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : 1. H\u00e4lfte VI<br><a href=\"https://grammateus.unige.ch/document/33680\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : 1. H\u00e4lfte VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6178,14 +6327,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "33680"
+      "@id": "https://grammateus.unige.ch/document/33680"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 20. Jan. 389<br><a href=\"https://grammateus.unige.ch/document/17481\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 20. Jan. 389<br></p>"
       },
       "when": {
         "timespans": [
@@ -6219,14 +6369,15 @@
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "17481"
+      "@id": "https://grammateus.unige.ch/document/17481"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : IV<br><a href=\"https://grammateus.unige.ch/document/32365\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : IV<br></p>"
       },
       "when": {
         "timespans": [
@@ -6261,14 +6412,15 @@
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
-        "nome": "Hermopolites"
+        "nome": "Hermopolites",
+        "coord_name": "\u00c4gypten"
       },
-      "@id": "32365"
+      "@id": "https://grammateus.unige.ch/document/32365"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/35967\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6302,14 +6454,15 @@
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
-        "nome": "Oxyrhynchites"
+        "nome": "Oxyrhynchites",
+        "coord_name": "Oxyrhynchites"
       },
-      "@id": "35967"
+      "@id": "https://grammateus.unige.ch/document/35967"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Official Letter <br>date : V - VI<br><a href=\"https://grammateus.unige.ch/document/35594\">Grammateus Link</a></p>"
+        "value": "<p>Official Letter <br>date : V - VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6345,14 +6498,15 @@
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "35594"
+      "@id": "https://grammateus.unige.ch/document/35594"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : 26. Apr. 379<br><a href=\"https://grammateus.unige.ch/document/22003\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : 26. Apr. 379<br></p>"
       },
       "when": {
         "timespans": [
@@ -6387,14 +6541,15 @@
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "settlement": "Oxyrhynchos"
+        "settlement": "Oxyrhynchos",
+        "coord_name": "Oxyrhynchos"
       },
-      "@id": "22003"
+      "@id": "https://grammateus.unige.ch/document/22003"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Private Letter <br>date : VI<br><a href=\"https://grammateus.unige.ch/document/37234\">Grammateus Link</a></p>"
+        "value": "<p>Private Letter <br>date : VI<br></p>"
       },
       "when": {
         "timespans": [
@@ -6429,14 +6584,15 @@
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
-        "settlement": "Aphrodites Kome"
+        "settlement": "Aphrodites Kome",
+        "coord_name": "Aphrodites Kome"
       },
-      "@id": "37234"
+      "@id": "https://grammateus.unige.ch/document/37234"
     },
     {
       "type": "Feature",
       "descriptions": {
-        "value": "<p>Business Letter <br>date : V<br><a href=\"https://grammateus.unige.ch/document/35190\">Grammateus Link</a></p>"
+        "value": "<p>Business Letter <br>date : V<br></p>"
       },
       "when": {
         "timespans": [
@@ -6471,9 +6627,10 @@
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
-        "nome": "Herakleopolites"
+        "nome": "Herakleopolites",
+        "coord_name": "Herakleopolites"
       },
-      "@id": "35190"
+      "@id": "https://grammateus.unige.ch/document/35190"
     }
   ]
 }
