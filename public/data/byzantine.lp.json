@@ -1081,6 +1081,8 @@
         ]
       },
       "properties": {
+        "@id": "https://grammateus.unige.ch/document/36531",
+        "label": "36531",
         "title": "P.Cair. Masp. 3 67322",
         "origPlace": "Antaiopolis (?)",
         "origDate": "[0501-01-01/0600-12-31]",
@@ -1097,7 +1099,7 @@
         "settlement": "Antaiopolis",
         "coord_name": "Antaiopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/36531"
+      "@id": "https://grammateus.unige.ch/document/36531_1"
     },
     {
       "type": "Feature",
@@ -2308,6 +2310,8 @@
         ]
       },
       "properties": {
+        "@id": "https://grammateus.unige.ch/document/36804",
+        "label": "36804",
         "title": "P.Cair. Masp. 1 67061",
         "origPlace": "Antaiopolis",
         "origDate": "[0526-01-01/0575-12-31]",
@@ -2323,7 +2327,7 @@
         "settlement": "Antaiopolis",
         "coord_name": "Antaiopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/36804"
+      "@id": "https://grammateus.unige.ch/document/36804_1"
     },
     {
       "type": "Feature",
@@ -4873,12 +4877,14 @@
       },
       "geometry": {
         "type": "Point",
+        "label": "Konstantinopel",
         "coordinates": [
           28.973882,
           41.005902
         ]
       },
       "properties": {
+        "@id": "https://grammateus.unige.ch/document/18048",
         "title": "SB 4 7438",
         "origPlace": "Konstantinopel oder Aphrodites Kome (Antaiopolites, \u00c4gypten)",
         "origDate": "[0548-07-01/0548-12-28]",
@@ -4893,7 +4899,7 @@
         "settlement": "Konstantinopel",
         "coord_name": "Konstantinopel"
       },
-      "@id": "https://grammateus.unige.ch/document/18048"
+      "@id": "https://grammateus.unige.ch/document/18048_composed"
     },
     {
       "type": "Feature",
