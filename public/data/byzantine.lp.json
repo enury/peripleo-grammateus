@@ -34,12 +34,12 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/32816"
@@ -75,8 +75,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -118,11 +118,11 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
@@ -161,9 +161,9 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -202,7 +202,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -243,7 +243,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -284,8 +284,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -327,9 +327,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -371,9 +371,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5,
-          6
+          "4",
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -415,8 +415,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -455,8 +455,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -498,7 +498,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
@@ -540,8 +540,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -582,9 +582,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -625,8 +625,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -667,7 +667,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -709,7 +709,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -750,8 +750,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -792,9 +792,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
@@ -836,17 +836,17 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45281"
+      "@id": "https://grammateus.unige.ch/document/45281_located"
     },
     {
       "type": "Feature",
@@ -879,17 +879,17 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32357"
+      "@id": "https://grammateus.unige.ch/document/32357_located"
     },
     {
       "type": "Feature",
@@ -922,8 +922,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -962,9 +962,9 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          4,
-          5,
-          6
+          "4",
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1003,8 +1003,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1046,9 +1046,9 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1075,6 +1075,7 @@
       },
       "geometry": {
         "type": "Point",
+        "label": "Antaiopolis",
         "coordinates": [
           31.517443,
           26.899283
@@ -1089,8 +1090,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -1132,7 +1133,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1173,7 +1174,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1215,7 +1216,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1257,7 +1258,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1266,7 +1267,7 @@
         "settlement": "Pesla",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45284"
+      "@id": "https://grammateus.unige.ch/document/45284_located"
     },
     {
       "type": "Feature",
@@ -1299,8 +1300,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1339,7 +1340,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          7
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1381,7 +1382,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -1423,8 +1424,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1466,8 +1467,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1475,7 +1476,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32352"
+      "@id": "https://grammateus.unige.ch/document/32352_located"
     },
     {
       "type": "Feature",
@@ -1508,8 +1509,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1551,8 +1552,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1593,8 +1594,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -1636,7 +1637,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1645,7 +1646,7 @@
         "settlement": "Pesla",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45279"
+      "@id": "https://grammateus.unige.ch/document/45279_located"
     },
     {
       "type": "Feature",
@@ -1678,7 +1679,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1687,7 +1688,7 @@
         "settlement": "Pesla",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45278"
+      "@id": "https://grammateus.unige.ch/document/45278_located"
     },
     {
       "type": "Feature",
@@ -1720,7 +1721,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1761,8 +1762,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1804,8 +1805,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5,
+          "4",
+          "5",
           6
         ],
         "type": "Epistolary Exchange ",
@@ -1848,11 +1849,11 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
@@ -1891,7 +1892,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1900,7 +1901,7 @@
         "settlement": "Pesla",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/15776"
+      "@id": "https://grammateus.unige.ch/document/15776_located"
     },
     {
       "type": "Feature",
@@ -1933,10 +1934,10 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7,
-          8
+          "5",
+          "6",
+          "7",
+          "8"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1976,8 +1977,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -1985,7 +1986,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/38035"
+      "@id": "https://grammateus.unige.ch/document/38035_located"
     },
     {
       "type": "Feature",
@@ -2018,7 +2019,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2060,8 +2061,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -2103,7 +2104,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2145,8 +2146,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -2188,8 +2189,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2197,7 +2198,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/38034"
+      "@id": "https://grammateus.unige.ch/document/38034_located"
     },
     {
       "type": "Feature",
@@ -2230,10 +2231,10 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7,
-          8
+          "5",
+          "6",
+          "7",
+          "8"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2273,8 +2274,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2304,6 +2305,7 @@
       },
       "geometry": {
         "type": "Point",
+        "label": "Antaiopolis",
         "coordinates": [
           31.517443,
           26.899283
@@ -2318,7 +2320,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2360,8 +2362,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2402,8 +2404,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2444,8 +2446,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2485,9 +2487,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2529,7 +2531,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          7
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2570,8 +2572,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2613,8 +2615,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2622,7 +2624,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/38036"
+      "@id": "https://grammateus.unige.ch/document/38036_located"
     },
     {
       "type": "Feature",
@@ -2655,8 +2657,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -2698,8 +2700,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2728,6 +2730,7 @@
       },
       "geometry": {
         "type": "Point",
+        "label": "Antaiopolis",
         "coordinates": [
           31.517443,
           26.899283
@@ -2740,7 +2743,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2782,8 +2785,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -2825,7 +2828,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2867,7 +2870,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          7
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2909,8 +2912,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -2952,9 +2955,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -2995,7 +2998,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3037,8 +3040,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -3079,8 +3082,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -3121,11 +3124,11 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "order to pay!",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
@@ -3164,8 +3167,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3207,7 +3210,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          7
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -3248,9 +3251,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3292,8 +3295,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5,
+          "4",
+          "5",
           6
         ],
         "type": "Epistolary Exchange ",
@@ -3336,7 +3339,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -3378,9 +3381,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3422,8 +3425,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3464,11 +3467,11 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "order to pay!",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
@@ -3507,8 +3510,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -3550,8 +3553,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -3592,11 +3595,11 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
@@ -3635,9 +3638,9 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3676,9 +3679,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3720,9 +3723,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3764,8 +3767,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -3804,8 +3807,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -3846,8 +3849,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -3888,8 +3891,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3930,8 +3933,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3973,9 +3976,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -3983,7 +3986,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/92439"
+      "@id": "https://grammateus.unige.ch/document/92439_located"
     },
     {
       "type": "Feature",
@@ -4016,11 +4019,11 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "coord_name": "Oxyrhynchites"
@@ -4058,10 +4061,10 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          5,
-          6,
-          7,
-          8
+          "5",
+          "6",
+          "7",
+          "8"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4100,7 +4103,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4141,8 +4144,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -4184,9 +4187,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -4228,8 +4231,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4270,7 +4273,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4279,7 +4282,7 @@
         "settlement": "Pesla",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32513"
+      "@id": "https://grammateus.unige.ch/document/32513_located"
     },
     {
       "type": "Feature",
@@ -4312,8 +4315,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -4353,8 +4356,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -4393,8 +4396,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -4433,8 +4436,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4475,8 +4478,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4517,8 +4520,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -4557,8 +4560,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -4597,7 +4600,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -4638,9 +4641,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4648,7 +4651,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/128705"
+      "@id": "https://grammateus.unige.ch/document/128705_located"
     },
     {
       "type": "Feature",
@@ -4681,17 +4684,17 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32516"
+      "@id": "https://grammateus.unige.ch/document/32516_located"
     },
     {
       "type": "Feature",
@@ -4724,7 +4727,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4733,7 +4736,7 @@
         "settlement": "Pesla",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/15778"
+      "@id": "https://grammateus.unige.ch/document/15778_located"
     },
     {
       "type": "Feature",
@@ -4766,7 +4769,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4808,8 +4811,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -4849,8 +4852,8 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -4891,7 +4894,7 @@
         "precision": "Medium",
         "provenance": "composed",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -4932,7 +4935,7 @@
         "precision": "Medium",
         "provenance": "found",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -4941,7 +4944,7 @@
         "settlement": "Aphrodites Kome",
         "coord_name": "Aphrodites Kome"
       },
-      "@id": "https://grammateus.unige.ch/document/18048"
+      "@id": "https://grammateus.unige.ch/document/18048_found"
     },
     {
       "type": "Feature",
@@ -4974,8 +4977,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5016,8 +5019,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5058,8 +5061,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5101,8 +5104,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -5143,9 +5146,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5153,7 +5156,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/128706"
+      "@id": "https://grammateus.unige.ch/document/128706_located"
     },
     {
       "type": "Feature",
@@ -5186,8 +5189,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -5229,8 +5232,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -5272,9 +5275,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5282,7 +5285,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/128707"
+      "@id": "https://grammateus.unige.ch/document/128707_located"
     },
     {
       "type": "Feature",
@@ -5315,8 +5318,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5358,7 +5361,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5399,7 +5402,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -5441,7 +5444,7 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -5480,7 +5483,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -5522,9 +5525,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -5566,8 +5569,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5609,8 +5612,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -5651,11 +5654,11 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
@@ -5694,18 +5697,18 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5,
-          6
+          "4",
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/33686"
+      "@id": "https://grammateus.unige.ch/document/33686_located"
     },
     {
       "type": "Feature",
@@ -5738,7 +5741,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -5780,8 +5783,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5823,7 +5826,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5865,7 +5868,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -5906,9 +5909,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7,
-          8
+          "6",
+          "7",
+          "8"
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
@@ -5916,7 +5919,7 @@
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/38314"
+      "@id": "https://grammateus.unige.ch/document/38314_located"
     },
     {
       "type": "Feature",
@@ -5949,7 +5952,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -5989,7 +5992,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -6030,7 +6033,7 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          7
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -6072,8 +6075,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -6115,8 +6118,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -6158,8 +6161,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          1,
-          2
+          "1",
+          "2"
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
@@ -6201,12 +6204,12 @@
         "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/32819"
@@ -6242,8 +6245,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -6285,8 +6288,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
@@ -6327,7 +6330,7 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -6369,11 +6372,11 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "coord_name": "Oxyrhynchites"
@@ -6411,17 +6414,17 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          4,
-          5
+          "4",
+          "5"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "coord_name": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32365"
+      "@id": "https://grammateus.unige.ch/document/32365_located"
     },
     {
       "type": "Feature",
@@ -6454,8 +6457,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -6496,9 +6499,9 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6,
-          7
+          "5",
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
@@ -6540,11 +6543,11 @@
         "precision": "High",
         "provenance": "located",
         "centuries": [
-          4
+          "4"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
@@ -6583,8 +6586,8 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          6,
-          7
+          "6",
+          "7"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
@@ -6626,12 +6629,12 @@
         "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          5,
-          6
+          "5",
+          "6"
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "variation": "Order to Pay ",
+        "variation": "Order to Pay",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
         "coord_name": "Herakleopolites"
