@@ -1,6 +1,6 @@
 {
   "initial_bounds": [38.3, 16.8, 19.5, 52.4],
-  "map_style": "https://api.maptiler.com/maps/outdoor/style.json?key=cqqmcLw28krG9Fl7V3kg",
+  "map_style": "./map-style-OSM.json",
   "data": [
     {
       "name": "grammateus",
