@@ -6,7 +6,7 @@
       "name": "grammateus",
       "format": "LINKED_PLACES",
       "src": "./data/grammateus.lp.json",
-      "attribution": "grammateus © <a href=\"https:grammateus.unige.ch\" target=\"_blank\"><i>a typology of documentary papyri</i></a>"
+      "attribution": "grammateus © <a href=\"https://grammateus.unige.ch\" target=\"_blank\"><i>a typology of documentary papyri</i></a>"
     }
   ],
   "facets": [
