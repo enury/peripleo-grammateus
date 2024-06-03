@@ -8,6 +8,7 @@ import { getDescriptions } from '.';
 import { loadLinkedPlaces } from './loaders/LinkedPlacesLoader';
 import { loadImageAnnotations } from './loaders/RecogitoAnnotationLoader';
 import { getSuggestedTerms } from './Suggestions';
+import { getBounds } from './index';
 
 /**
  * Converts a network node to a JsSearch
@@ -20,6 +21,34 @@ const nodeToDocument = node => ({
   description: getDescriptions(node).join(' '),
   names: node.name ? [ node.name ] : node.names?.map(n => n.toponym)
 });
+
+export const getColocatedFeatures = (feature, items, n) => {
+  //create new tree for knn function
+  const tree = new RBush();
+
+  //fill the tree with items
+  items.map(item =>{
+  
+    //code from LinkedPlacesLoader.js, l.53-55
+    //get bounds from item and insert into the tree
+    const bounds = getBounds(item);
+    if (bounds)
+      tree.insert({ ...bounds, item })
+    });
+
+  // then get the neighbours as below, originally l.113-125
+  const [x, y] = centroid(feature)?.geometry.coordinates;
+  const neighbours = knn(tree, x, y, n + 1);
+
+  // Neighbours will include the feature itself, but we can't be sure
+  // about the order (locations might be identical!)
+  const featureId = feature.id || feature.identifier;
+
+  return neighbours.map(n => n.item).filter(item => { 
+    const id = item.id || item.identifier;
+    return id !== featureId;
+  });
+};
 
 export default class Store {
 

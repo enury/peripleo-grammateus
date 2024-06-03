@@ -15,6 +15,7 @@ import Controls from './controls/Controls';
 import HoverBubble from './HoverBubble';
 import SelectionPreview from './selection/SelectionPreview';
 import MyLocation from './MyLocation';
+import { getColocatedFeatures } from '../store/Store';
 
 const Map = React.forwardRef((props, ref) => {
 
@@ -111,7 +112,13 @@ const Map = React.forwardRef((props, ref) => {
       const { node, feature } = hover;
       const colocated = feature.properties.colocated_records || 0;
 
-      if (colocated) {
+      //if there is a query then use the query items
+      if (search.items && colocated) {
+        const neighbours = getColocatedFeatures(node, search.items, colocated);
+        setSelection({ nodeList: [ node, ...neighbours ], feature });
+      }
+      //otherwise original code
+      else if (colocated) {
         const neighbours = store.getNearestNeighbours(node, colocated);
         setSelection({ nodeList: [ node, ...neighbours ], feature });
       } else {
