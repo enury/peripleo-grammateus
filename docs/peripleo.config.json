@@ -1,18 +1,22 @@
 {
   "initial_bounds": [38.3, 16.8, 19.5, 52.4],
-  "map_style": "https://api.maptiler.com/maps/outdoor/style.json?key=cqqmcLw28krG9Fl7V3kg",
+  "map_style": "./map-style-OSM.json",
   "data": [
     {
+      "name": "grammateus",
       "format": "LINKED_PLACES",
-      "src": "./data/byzantine.lp.json"
+      "src": "./data/grammateus.lp.json",
+      "attribution": "grammateus © <a href=\"https://grammateus.unige.ch\" target=\"_blank\"><i>a typology of documentary papyri</i></a>"
     }
   ],
   "facets": [
-      {"name": "provenance", "path": ["properties", "provenance"]},
+      {"name": "nome", "path": ["properties", "nome"]},
       {"name": "region", "path": ["properties", "region"]},
+      {"name": "provenance", "path": ["properties", "provenance"]},
       {"name": "type", "path": ["properties", "type"]},
       {"name": "subtype", "path": ["properties", "subtype"]},
-      {"name": "variation", "path": ["properties", "variation"]}
+      {"name": "variation", "path": ["properties", "variation"]},
+      {"name": "century", "path": ["properties", "centuries"]}
   ]
 }
 
