@@ -33,7 +33,7 @@ export const getColocatedFeatures = (feature, items, n) => {
     //get bounds from item and insert into the tree
     const bounds = getBounds(item);
     if (bounds)
-      tree.insert({ ...bounds, item })
+      tree.insert({ ...bounds, item });
     });
 
   // then get the neighbours as below, originally l.113-125

@@ -125,7 +125,6 @@ const ExternalLink = props => {
         {link.label && 
           <a 
             className="p6o-external-link-label" 
-            onClick={() => GoogleAnalytics.ttagNavigation(href)}
             href={href} 
             target="_blank" 
             title={link.label}>{link.label}</a>
@@ -133,7 +132,6 @@ const ExternalLink = props => {
 
         <a 
           className="p6o-external-link-host" 
-          onClick={() => GoogleAnalytics.ttagNavigation(href)}
           href={href} 
           target="_blank" 
           title={link.label || host}>{host}</a>

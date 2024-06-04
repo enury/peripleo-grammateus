@@ -132,8 +132,7 @@ const ItemCard = props => {
             className="p6o-selection-main-fixed">
 
             <div
-              className="p6o-source-link"
-              onClick={() => window.open(sourceUrl, '_blank')}>
+              className="p6o-source-link">
               <h1>
                 <a 
                   href={sourceUrl} 
