@@ -33,8 +33,7 @@ const tour = [{
   title: 'That\'s it!',
   content: 
     <span>
-      Thanks for taking the time. Have fun exploring our Peripleo mapping prototype.
-      If you want to know more about the software, <a href="https://github.com/britishlibrary/peripleo-lanc" target="_blank">click here</a>.
+      Thanks for taking the time. Have fun exploring the grammateus papyri.
     </span>
 }];
 
